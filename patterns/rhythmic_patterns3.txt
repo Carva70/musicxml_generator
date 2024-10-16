@@ -1,0 +1,181 @@
+## 5 beats [0, 12]
+
+**begin**
+quarter, False
+whole, False
+**end**
+
+**begin**
+quarter, False, None, 1
+eighth, False, [3,2], 2
+quarter, False, [3,2], 1
+half, True, None, 2
+**end**
+
+**begin**
+quarter, False, None, 1
+eighth, False, None, 2
+eighth, False, None, 1
+half, True, None, 2
+**end**
+
+**begin**
+quarter, False, None, 1
+quarter, False, [3,2], 2
+eighth, False, [3,2], 1
+half, True, None, 2
+**end**
+
+**begin**
+half, False
+half, True
+**end**
+
+**begin**
+half, False, None, 1
+eighth, False, [3,2], 2
+quarter, False, [3,2], 1
+half, False, None, 2
+**end**
+
+**begin**
+half, False, None, 1
+eighth, False, None, 2
+eighth, False, None, 1
+half, False, None, 2
+**end**
+
+**begin**
+half, False, None, 1
+quarter, False, [3,2], 2
+eighth, False, [3,2], 1
+half, False, None, 2
+**end**
+
+**begin**
+half, True
+half, False
+**end**
+
+**begin**
+half, True, None, 1
+eighth, False, [3,2], 2
+quarter, False, [3,2], 1
+quarter, False, None, 2
+**end**
+
+**begin**
+half, True, None, 1
+eighth, False, None, 2
+eighth, False, None, 1
+quarter, False, None, 2
+**end**
+
+**begin**
+half, True, None, 1
+quarter, False, [3,2], 2
+eighth, False, [3,2], 1
+quarter, False, None, 2
+**end**
+
+**begin**
+whole, False
+quarter, False
+**end**
+
+## 4 beats [13, 21]
+
+**begin**
+quarter, False
+half, True
+**end**
+
+**begin**
+quarter, False, None, 1
+eighth, False, [3,2], 2
+quarter, False, [3,2], 1
+half, False, None, 2
+**end**
+
+**begin**
+quarter, False, None, 1
+eighth, False, None, 2
+eighth, False, None, 1
+half, False, None, 2
+**end**
+
+**begin**
+quarter, False, None, 1
+quarter, False, [3,2], 2
+eighth, False, [3,2], 1
+half, False, None, 2
+**end**
+
+**begin**
+half, False
+half, False
+**end**
+
+**begin**
+half, False, None, 1
+eighth, False, [3,2], 2
+quarter, False, [3,2], 1
+quarter, False, None, 2
+**end**
+
+**begin**
+half, False, None, 1
+eighth, False, None, 2
+eighth, False, None, 1
+quarter, False, None, 2
+**end**
+
+**begin**
+half, False, None, 1
+quarter, False, [3,2], 2
+eighth, False, [3,2], 1
+quarter, False, None, 2
+**end**
+
+**begin**
+half, True
+quarter, False
+**end**
+
+## 4 beats [22, 26]
+
+**begin**
+quarter, False
+half, False
+**end**
+
+**begin**
+quarter, False, None, 1
+eighth, False, [3,2], 2
+quarter, False, [3,2], 1
+quarter, False, None, 2
+**end**
+
+**begin**
+quarter, True
+quarter, True
+**end**
+
+**begin**
+quarter, False, None, 1
+quarter, False, [3,2], 2
+eighth, False, [3,2], 1
+quarter, False, None, 2
+**end**
+
+**begin**
+half, False
+quarter, False
+**end**
+
+## 5 beats [27]
+
+**begin**
+quarter, False
+quarter, False
+**end**

@@ -1,0 +1,59 @@
+**begin**
+eighth, True, [5,4]
+eighth, False, [5,4], 1
+eighth, False, None, 2
+16th, False, None, None, True
+16th, False, None, 1
+eighth, False, [7,4], 2
+eighth, False, [7,4]
+eighth, True, [7,4]
+**end**
+**begin**
+16th, False, [5,4], None, True
+16th, False, [5,4]
+16th, False, [5,4]
+16th, False, [5,4]
+16th, False, [5,4], 1
+16th, False, None, 2
+16th, False
+16th, False
+16th, False, None, 1
+eighth, False, [3,2], 2
+quarter, False, [3,2]
+**end**
+**begin**
+16th, False, [5,4]
+16th, False, [5,4]
+16th, False, [5,4]
+16th, False, [5,4]
+16th, False, [5,4]
+**end**
+**begin**
+16th, False
+16th, False
+eighth, False, None, None, True
+**end**
+**begin**
+eighth, False, [7,4]
+eighth, False, [7,4]
+eighth, True, [7,4]
+**end**
+**begin**
+eighth, False, [7,4]
+eighth, True, [7,4]
+eighth, False, [7,4]
+**end**
+**begin**
+eighth, True, [7,4]
+eighth, False, [7,4]
+eighth, False, [7,4]
+**end**
+**begin**
+16th, False, [5,4], None, True
+eighth, False, [5,4]
+eighth, False, [5,4]
+**end**
+**begin**
+eighth, False, [5,4]
+eighth, True, [5,4]
+**end**

@@ -1,0 +1,55 @@
+**begin**
+half, True
+quarter, False, None, 1
+quarter, False, [3,2], 2
+eighth, False, [3,2], 1
+half, False, None, 2
+**end**
+**begin**
+quarter, False, None, 1
+eighth, False, [3,2], 2
+quarter, False, [3,2], 1
+half, False, None, 2
+**end**
+**begin**
+quarter, True
+eighth, False, None, 1
+quarter, False, [3,2], 2
+eighth, False, [3,2], 1
+quarter, False, None, 2
+**end**
+**begin**
+quarter, False, None, 1
+eighth, True, None, 2
+16th, False, None, 1
+quarter, False, [3,2], 2
+eighth, False, [3,2], 1
+eighth, False, None, 2
+eighth, False, None, 1
+half, False, None, 2
+**end**
+**begin**
+quarter, False
+half, False, None, 1
+eighth, False, None, 2
+eighth, False, None, 1
+quarter, False, None, 2
+**end**
+**begin**
+eighth, False, [3,2], None, True
+quarter, False, [3,2], 1
+quarter, False, None, 2
+half, False
+**end**
+**begin**
+eighth, False, None, None, True
+eighth, False, None, 1
+half, False, None, 2
+quarter, False
+**end**
+**begin**
+quarter, True, None, None, True
+eighth, False, None, 1
+quarter, False, None, 2
+quarter, False
+**end**

@@ -1,0 +1,94 @@
+
+**begin**
+quarter, False, None
+eighth, True, [7,4], 1
+eighth, False, [7,4], 2
+eighth, False, [7,4], 1
+quarter, False, [3,2], 2
+eighth, False, [3,2]
+**end**
+
+**begin**
+half, False, None, 1
+eighth, True, [5,4], 2
+eighth, False, [5,4], 1
+quarter, False, [3,2], 2
+eighth, False, [3,2]
+**end**
+
+**begin**
+half, True, None
+eighth, True, [7,4], 1
+eighth, False, [7,4], 2
+eighth, False, [7,4], 1
+eighth, True, [5,4], 2
+eighth, False, [5,4]
+**end**
+
+**begin**
+quarter, False, None, 1
+eighth, False, [5,4], 2
+eighth, True, [5,4], 1
+quarter, False, [3,2], 2
+eighth, False, [3,2], 1
+eighth, False, None, 2
+eighth, False
+**end**
+
+**begin**
+eighth, True, [7,4], 1
+eighth, False, [7,4], 2
+eighth, False, [7,4], 1
+eighth, False, [5,4], 2
+eighth, True, [5,4]
+quarter, False, None
+**end**
+
+
+
+
+
+**begin**
+quarter, False, None
+eighth, True, [7,4], None, True
+eighth, False, [7,4]
+eighth, False, [7,4], 1
+quarter, False, [3,2], 2
+eighth, False, [3,2]
+**end**
+
+**begin**
+half, False, None, 1
+eighth, True, [5,4], 2
+eighth, False, [5,4], 1
+quarter, False, [3,2]
+eighth, False, [3,2], None, True
+**end**
+
+**begin**
+half, False, None
+eighth, True, [7,4], 1
+eighth, False, [7,4], 2
+eighth, False, [7,4], 1
+eighth, True, [5,4], 2
+eighth, False, [5,4], None, True
+**end**
+
+**begin**
+quarter, False, None, 1
+eighth, False, [5,4], 2
+eighth, True, [5,4], 1
+quarter, False, [3,2], 2
+eighth, False, [3,2], 1
+eighth, False, None, 2
+eighth, False, None, None, True
+**end**
+
+**begin**
+eighth, True, [7,4], 1
+eighth, False, [7,4], 2
+eighth, False, [7,4], 1
+eighth, False, [5,4], 2
+eighth, True, [5,4]
+quarter, False, None, None, True
+**end**
